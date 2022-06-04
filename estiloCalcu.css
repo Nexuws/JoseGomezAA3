@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Media/dance.gif);
+    /**color: black;*/
+}
+
+.miCalcuClaseCSS{
+    color: black;
+    font-size: 15px;
+}
+.miBoton{
+    background-color: yellowgreen;
+    font-weight: bold;
+    font-style: italic;
+    /**border-radius: 20% ;*/
+    margin: 0.5%;
+}
+
+h1{
+    color: crimson;
+}
+
+h2{
+    color: black;
+}
